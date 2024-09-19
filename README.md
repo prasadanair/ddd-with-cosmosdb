@@ -1,6 +1,6 @@
 # Domain Driven Design (DDD) with Cosmos DB
 
-This repository aims to provide documentation and a working example for the following:
+This repository aims to provide documentation and working examples for the following.
 
 1. Domain Driven Design techniques
 2. NoSQL data modeling with DDD
